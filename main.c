@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<stdlib.h>
+
 int main(){
     int arr[100][100], row, col;
 
@@ -20,6 +20,9 @@ int main(){
         printf("%d " , arr[i][j]);
 
         if(j == col-1){
+
+
+            uhygyvhggh
             printf("\n\n");
         }
        }
